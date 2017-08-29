@@ -44,3 +44,7 @@ API Usage
 	// Knock, knock ...
 	room.open();
 
+More
+---------
+
+Read the [official API pdf](http://dev-bbs.douyutv.com/forum.php?mod=attachment&aid=MjYxfGZjZWY1M2Q5fDE1MDM5OTY2NjF8MHwxMTU%3D) for more usage.
